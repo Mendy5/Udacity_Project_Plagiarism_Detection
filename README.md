@@ -46,4 +46,4 @@ The model is for predicting if an answer file plagiarized from the relevant Wiki
 The final product is a trained model with the accuracy about 92%.
 
 # Licensing, Authors, Acknowledgements
-Must give credit to Andrew Maas for the data.
+Must give credit to Paul Clough (Information Studies) and Mark Stevenson (Computer Science), University of Sheffield for the data.
