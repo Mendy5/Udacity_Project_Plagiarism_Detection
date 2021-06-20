@@ -1,4 +1,4 @@
-# Udacity_Project_Plagiarism_Detection
+# Udacity Project Plagiarism Detection
 
 This repository contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
 
